@@ -1,0 +1,10 @@
+{
+  "ip": "25.15.21.1.18.5.4.5.1.4",
+  "device_name": "user-pc",
+  "os_name": "Minux",
+  "version": "0.5",
+  "cpu": "1 MHz",
+  "gpu": "none",
+  "ram": "64K",
+  "motherboard": "BaseBoard V1"
+}
